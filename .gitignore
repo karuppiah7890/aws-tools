@@ -1,0 +1,7 @@
+aws-tools
+
+*.tar.gz
+
+*.env*
+
+!.env.sample
